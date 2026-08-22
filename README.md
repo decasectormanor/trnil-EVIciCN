@@ -1,2 +1,0 @@
-# trnil-EVIciCN
-Batch created
